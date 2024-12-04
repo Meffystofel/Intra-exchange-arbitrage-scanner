@@ -1,0 +1,37 @@
+Arbitrage pair: ['ETHUSDT', 'BNTETH', 'BNTUSDT'], Profit: 0.38 USDT, Проміжні суми: BNTETH: 0.174237, BNTUSDT: 804.418281, Популярність: 28214.5
+Arbitrage pair: ['ETHUSDT', 'BNBETH', 'BNBUSDT'], Profit: 0.12 USDT, Проміжні суми: BNBETH: 0.174238, BNBUSDT: 0.981069, Популярність: 18339.482
+Arbitrage pair: ['ETHUSDT', 'EOSETH', 'EOSUSDT'], Profit: 0.28 USDT, Проміжні суми: EOSETH: 0.174247, EOSUSDT: 617.460261, Популярність: 157432.3 (практично гарантовано)
+Arbitrage pair: ['ETHUSDT', 'BNTETH', 'BNTUSDT'], Profit: 0.42 USDT, Проміжні суми: BNTETH: 0.174247, BNTUSDT: 804.463611, Популярність: 28462.0
+Arbitrage pair: ['ETHUSDT', 'BNBETH', 'BNBUSDT'], Profit: 0.15 USDT, Проміжні суми: BNBETH: 0.174247, BNBUSDT: 0.981119, Популярність: 18339.493
+Arbitrage pair: ['ETHUSDT', 'DASHETH', 'DASHUSDT'], Profit: 0.12 USDT, Проміжні суми: DASHETH: 0.174391, DASHUSDT: 15.926114, Популярність: 821.575
+Arbitrage pair: ['ETHUSDT', 'DASHETH', 'DASHUSDT'], Profit: 0.33 USDT, Проміжні суми: DASHETH: 0.174449, DASHUSDT: 15.931420, Популярність: 821.575
+Arbitrage pair: ['ETHUSDT', 'TRXETH', 'TRXUSDT'], Profit: 0.00 USDT, Проміжні суми: TRXETH: 0.174303, TRXUSDT: 3115.891047, Популярність: 5752567.0 (практично гарантовано)
+Arbitrage pair: ['ETHUSDT', 'TRXETH', 'TRXUSDT'], Profit: 0.00 USDT, Проміжні суми: TRXETH: 0.174303, TRXUSDT: 3115.891047, Популярність: 5752567.0 (практично гарантовано)
+Arbitrage pair: ['ETHUSDT', 'ADAETH', 'ADAUSDT'], Profit: 0.15 USDT, Проміжні суми: ADAETH: 0.174364, ADAUSDT: 606.273500, Популярність: 2195954.1 (практично гарантовано)
+Arbitrage pair: ['ETHUSDT', 'RLCETH', 'RLCUSDT'], Profit: 0.01 USDT, Проміжні суми: RLCETH: 0.174429, RLCUSDT: 273.186160, Популярність: 27349.7
+Arbitrage pair: ['ETHUSDT', 'RLCETH', 'RLCUSDT'], Profit: 0.01 USDT, Проміжні суми: RLCETH: 0.174429, RLCUSDT: 273.186160, Популярність: 27349.7
+Arbitrage pair: ['ETHUSDT', 'RLCETH', 'RLCUSDT'], Profit: 0.09 USDT, Проміжні суми: RLCETH: 0.174449, RLCUSDT: 273.216985, Популярність: 27352.0
+Arbitrage pair: ['BTCUSDT', 'ETCBTC', 'ETCUSDT'], Profit: 0.11 USDT, Проміжні суми: ETCBTC: 0.006773, ETCUSDT: 18.085796, Популярність: 277642.95 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'BNBBTC', 'BNBUSDT'], Profit: 0.06 USDT, Проміжні суми: BNBBTC: 0.006775, BNBUSDT: 0.835568, Популярність: 172315.708 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'BNBBTC', 'BNBUSDT'], Profit: 0.06 USDT, Проміжні суми: BNBBTC: 0.006775, BNBUSDT: 0.835568, Популярність: 172319.928 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'BNBBTC', 'BNBUSDT'], Profit: 0.06 USDT, Проміжні суми: BNBBTC: 0.006775, BNBUSDT: 0.835568, Популярність: 172324.703 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'BNBBTC', 'BNBUSDT'], Profit: 0.08 USDT, Проміжні суми: BNBBTC: 0.006768, BNBUSDT: 0.831841, Популярність: 172459.655 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'BNBBTC', 'BNBUSDT'], Profit: 0.06 USDT, Проміжні суми: BNBBTC: 0.006768, BNBUSDT: 0.831814, Популярність: 172466.124 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'BNBBTC', 'BNBUSDT'], Profit: 0.04 USDT, Проміжні суми: BNBBTC: 0.006767, BNBUSDT: 0.831790, Популярність: 172467.957 (практично гарантовано)
+Arbitrage pair: ['ETHUSDT', 'BNBETH', 'BNBUSDT'], Profit: 0.16 USDT, Проміжні суми: BNBETH: 0.174933, BNBUSDT: 0.831824, Популярність: 52161.537 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'ETHBTC', 'ETHUSDT'], Profit: 0.02 USDT, Проміжні суми: ETHBTC: 0.006767, ETHUSDT: 0.174905, Популярність: 65787.1958 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'BNBBTC', 'BNBUSDT'], Profit: 0.04 USDT, Проміжні суми: BNBBTC: 0.006767, BNBUSDT: 0.832053, Популярність: 172516.776 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'ETHBTC', 'ETHUSDT'], Profit: 0.02 USDT, Проміжні суми: ETHBTC: 0.006767, ETHUSDT: 0.174905, Популярність: 65788.3838 (практично гарантовано)
+Arbitrage pair: ['ETHUSDT', 'EOSETH', 'EOSUSDT'], Profit: 0.08 USDT, Проміжні суми: EOSETH: 0.174866, EOSUSDT: 470.703124, Популярність: 1217161.2 (практично гарантовано)
+Arbitrage pair: ['ETHUSDT', 'EOSETH', 'EOSUSDT'], Profit: 0.05 USDT, Проміжні суми: EOSETH: 0.174857, EOSUSDT: 470.679041, Популярність: 1217161.2 (практично гарантовано)
+Arbitrage pair: ['ETHUSDT', 'BNBETH', 'BNBUSDT'], Profit: 0.17 USDT, Проміжні суми: BNBETH: 0.174857, BNBUSDT: 0.831859, Популярність: 52167.126 (практично гарантовано)
+Arbitrage pair: ['ETHUSDT', 'BNBETH', 'BNBUSDT'], Profit: 0.17 USDT, Проміжні суми: BNBETH: 0.174857, BNBUSDT: 0.831859, Популярність: 52170.998 (практично гарантовано)
+Arbitrage pair: ['ETHUSDT', 'ADXETH', 'ADXUSDT'], Profit: 0.18 USDT, Проміжні суми: ADXETH: 0.174968, ADXUSDT: 2762.797808, Популярність: 4008539.0 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'ADXBTC', 'ADXUSDT'], Profit: 0.05 USDT, Проміжні суми: ADXBTC: 0.006767, ADXUSDT: 2762.222096, Популярність: 4262419.0 (практично гарантовано)
+Arbitrage pair: ['ETHUSDT', 'ADXETH', 'ADXUSDT'], Profit: 0.09 USDT, Проміжні суми: ADXETH: 0.174942, ADXUSDT: 2762.388427, Популярність: 4008539.0 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'NEOBTC', 'NEOUSDT'], Profit: 0.03 USDT, Проміжні суми: NEOBTC: 0.006767, NEOUSDT: 28.197217, Популярність: 494097.43 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'NEOBTC', 'NEOUSDT'], Profit: 0.21 USDT, Проміжні суми: NEOBTC: 0.006769, NEOUSDT: 28.217219, Популярність: 494074.74 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'BNBBTC', 'BNBUSDT'], Profit: 0.09 USDT, Проміжні суми: BNBBTC: 0.006769, BNBUSDT: 0.831917, Популярність: 172635.604 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'NEOBTC', 'NEOUSDT'], Profit: 0.21 USDT, Проміжні суми: NEOBTC: 0.006769, NEOUSDT: 28.217216, Популярність: 494074.74 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'BNBBTC', 'BNBUSDT'], Profit: 0.09 USDT, Проміжні суми: BNBBTC: 0.006769, BNBUSDT: 0.831917, Популярність: 172636.084 (практично гарантовано)
+Arbitrage pair: ['BTCUSDT', 'NEOBTC', 'NEOUSDT'], Profit: 0.22 USDT, Проміжні суми: NEOBTC: 0.006769, NEOUSDT: 28.217675, Популярність: 494025.34 (практично гарантовано)

@@ -1,0 +1,3 @@
+ETHBTC, USDTETH
+
+ми за BTC купуємо ETH, а потім за ETH USDT
